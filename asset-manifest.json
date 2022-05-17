@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%20tfjs-mobilenetv2-od-trial/static/css/main.a617e044.chunk.css",
-    "main.js": "/%20tfjs-mobilenetv2-od-trial/static/js/main.2e74246c.chunk.js",
-    "main.js.map": "/%20tfjs-mobilenetv2-od-trial/static/js/main.2e74246c.chunk.js.map",
-    "runtime-main.js": "/%20tfjs-mobilenetv2-od-trial/static/js/runtime-main.a35b9cfb.js",
-    "runtime-main.js.map": "/%20tfjs-mobilenetv2-od-trial/static/js/runtime-main.a35b9cfb.js.map",
-    "static/js/2.55e8bd62.chunk.js": "/%20tfjs-mobilenetv2-od-trial/static/js/2.55e8bd62.chunk.js",
-    "static/js/2.55e8bd62.chunk.js.map": "/%20tfjs-mobilenetv2-od-trial/static/js/2.55e8bd62.chunk.js.map",
-    "static/js/3.1ad3fed8.chunk.js": "/%20tfjs-mobilenetv2-od-trial/static/js/3.1ad3fed8.chunk.js",
-    "static/js/3.1ad3fed8.chunk.js.map": "/%20tfjs-mobilenetv2-od-trial/static/js/3.1ad3fed8.chunk.js.map",
-    "index.html": "/%20tfjs-mobilenetv2-od-trial/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/%20tfjs-mobilenetv2-od-trial/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.55e8bd62.chunk.js.LICENSE.txt": "/%20tfjs-mobilenetv2-od-trial/static/js/2.55e8bd62.chunk.js.LICENSE.txt",
-    "static/media/Holding IC.5b6eada1.png": "/%20tfjs-mobilenetv2-od-trial/static/media/Holding IC.5b6eada1.png"
+    "main.css": "/tfjs-mobilenetv2-od-trial/static/css/main.a617e044.chunk.css",
+    "main.js": "/tfjs-mobilenetv2-od-trial/static/js/main.2e74246c.chunk.js",
+    "main.js.map": "/tfjs-mobilenetv2-od-trial/static/js/main.2e74246c.chunk.js.map",
+    "runtime-main.js": "/tfjs-mobilenetv2-od-trial/static/js/runtime-main.0768ae44.js",
+    "runtime-main.js.map": "/tfjs-mobilenetv2-od-trial/static/js/runtime-main.0768ae44.js.map",
+    "static/js/2.55e8bd62.chunk.js": "/tfjs-mobilenetv2-od-trial/static/js/2.55e8bd62.chunk.js",
+    "static/js/2.55e8bd62.chunk.js.map": "/tfjs-mobilenetv2-od-trial/static/js/2.55e8bd62.chunk.js.map",
+    "static/js/3.1ad3fed8.chunk.js": "/tfjs-mobilenetv2-od-trial/static/js/3.1ad3fed8.chunk.js",
+    "static/js/3.1ad3fed8.chunk.js.map": "/tfjs-mobilenetv2-od-trial/static/js/3.1ad3fed8.chunk.js.map",
+    "index.html": "/tfjs-mobilenetv2-od-trial/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/tfjs-mobilenetv2-od-trial/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.55e8bd62.chunk.js.LICENSE.txt": "/tfjs-mobilenetv2-od-trial/static/js/2.55e8bd62.chunk.js.LICENSE.txt",
+    "static/media/Holding IC.5b6eada1.png": "/tfjs-mobilenetv2-od-trial/static/media/Holding IC.5b6eada1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a35b9cfb.js",
+    "static/js/runtime-main.0768ae44.js",
     "static/js/2.55e8bd62.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.2e74246c.chunk.js"
